@@ -17,3 +17,13 @@ author = "Flamboyant_Ham"
 cpu = "Intel Core i7-4720HQ"
 gpu = "GeForce GTX 960M"
 os = "Windows 10 14393"
+
+[[ testcases ]]
+title = "0004000000033500"
+compatibility = "0"
+date = "2018-02-01"
+version = "HEAD-a7ddec8"
+author = "IKyriousI"
+cpu = "Intel Core I57500 @ 3.4GHz"
+gpu = "GeForce GTX 1050ti"
+os = "Windows 10"
